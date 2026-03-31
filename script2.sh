@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 2: FOSS Package Inspector
-# Author : Parth
+# Author: Parth Sandeep Polgawande
 
 PACKAGE="linux-image-$(uname -r)"
 
