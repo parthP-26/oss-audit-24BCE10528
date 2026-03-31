@@ -2,6 +2,7 @@
 
 # Script 4: Log File Analyzer
 # Usage: ./script4.sh /var/log/syslog
+# Author: Parth Sandeep Polgawande
 
 LOGFILE=$1
 KEYWORD=${2:-error}   # Default keyword is 'error'
