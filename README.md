@@ -38,7 +38,7 @@ Use any Linux distribution such as Ubuntu.
 The following dependencies are required:
 
 - Bash shell (default in Linux)
-- Python 3
+- Python
 
 ---
 
